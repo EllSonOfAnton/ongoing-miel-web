@@ -1,0 +1,26 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(37, 83, 68);
+    height: 100vh;
+}
+
+.container-orgbaik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.orgbaik-content {
+    border-radius: 40px;
+    height: 500px;
+    width: 500px;
+    box-shadow: 9px 10px 25px 6px rgba(0,0,0,0.71);
+    -webkit-box-shadow: 9px 10px 25px 6px rgba(0,0,0,0.71);
+    -moz-box-shadow: 9px 10px 25px 6px rgba(0,0,0,0.71);
+
+}
